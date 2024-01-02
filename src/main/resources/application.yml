@@ -1,0 +1,10 @@
+server:
+  port: 8082
+spring:
+  application:
+    name: zjxTest
+  datasource:
+    url: jdbc:mysql://152.136.160.159:3306/demo?serverTimezone=Shanghai&?useUnicode=true&characterEncoding=utf8
+    username: root
+    password: 18331263380Zz
+    driver-class-name:
